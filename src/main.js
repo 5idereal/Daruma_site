@@ -1,11 +1,11 @@
 import { createApp } from 'vue'
 import { createI18n } from 'vue-i18n'
-/*import cn from './cn.json'
-import en from './en.json'
-import tw from './tw.json'
-import es from './es.json'
-*/const messages = {
-    //cn,en,tw,es
+//import cn from './cn.json'
+import en from './i18n/en.json'
+import tw from './i18n/tw.json'
+//import es from './es.json'
+const messages = {
+    en,tw
 }
 const i18n = createI18n({
 
