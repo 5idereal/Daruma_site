@@ -2,7 +2,7 @@
 <div class="max-w-5xl mx-auto grid grid-cols-1 lg:max-w-7xl lg:gap-x-20 lg:grid-cols-2 pt-12 pb-12 items-center">
   <div>
     <h1 class="mb-8 text-8xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-pink-400 to-red-600">Faster,<br> Stronger,<br>  Better.</h1>
-    <p class="mb-8 text-neutral-600 font-bold text-xl">Unleash your creativity.</p>
+    <p class="mb-8 dark:text-neutral-400 text-neutral-600 font-bold text-xl">Unleash your creativity.</p>
   <a class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-4 px-8  rounded-full">Download for Windows</a>
   </div>
   

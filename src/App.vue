@@ -9,6 +9,10 @@ body {
   overflow-x: hidden;
   padding: 20px;
 }
+
+*{
+  transition: 0.3s all ease;
+}
 </style>
 
 <script>
