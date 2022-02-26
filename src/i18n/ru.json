@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Раскройте свой творческий потенциал.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Быстрее, \nсильнее, \nлучше.",
+        "download-btn": "Скачать для Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Дома",
+        "about": "О",
+        "docs": "Документация",
+        "contact": "Контакт",
+        "action": "Начать"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
-        "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "resources": "Ресурсы",
+        "docs": "Документация",
+        "faq": "Вопросы-Ответы",
+        "follow": "Подписывайтесь на нас",
+        "legal": "Юридический",
+        "privacy": "Политика конфиденциальности",
+        "terms": "Условия эксплуатации"
     }
 }
