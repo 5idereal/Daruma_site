@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "שחרר את היצירתיות שלך.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "מהיר יותר, \nחזק יותר, \nטוב יותר.",
+        "download-btn": "הורד עבור Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "בית",
+        "about": "על אודות",
+        "docs": "תיעוד",
+        "contact": "איש קשר",
+        "action": "להתחיל"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
-        "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "resources": "אֶמְצָעִי",
+        "docs": "תיעוד",
+        "faq": "שאלות נפוצות",
+        "follow": "עקבו אחרינו",
+        "legal": "משפטי",
+        "privacy": "מדיניות פרטיות",
+        "terms": "תנאי שימוש"
     }
 }
