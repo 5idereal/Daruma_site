@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Slip din kreativitet løs.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Hurtigere, \nstærkere, \nbedre.",
+        "download-btn": "Download til Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Hjem",
+        "about": "Om",
+        "docs": "Dokumentation",
+        "contact": "Kontakt",
+        "action": "Kom igang"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
+        "resources": "Ressourcer",
+        "docs": "Dokumentation",
         "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "follow": "Følg os",
+        "legal": "gyldige",
+        "privacy": "Fortrolighedspolitik",
+        "terms": "Betingelser for brug"
     }
 }
