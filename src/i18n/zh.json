@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "释放你的创造力。",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "更快， \n更强， \n更好。",
+        "download-btn": "下载适用于 Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "家",
+        "about": "关于",
+        "docs": "文档",
+        "contact": "接触",
+        "action": "开始使用"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
-        "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "resources": "资源",
+        "docs": "文档",
+        "faq": "常问问题",
+        "follow": "跟着我们",
+        "legal": "合法的",
+        "privacy": "隐私政策",
+        "terms": "使用条款"
     }
 }
