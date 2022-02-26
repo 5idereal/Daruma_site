@@ -1,5 +1,23 @@
 {
-    "main":{
-        "subtitle":"創意不設限。"
+    "main": {
+        "subtitle": "創意不設限。",
+        "title": "更快，\n更強，\n更好。",
+        "download-btn": "Download for Windows"
+    },
+    "navbar":{
+        "home": "Home",
+        "about": "About",
+        "docs": "Documentation",
+        "contact": "Contact",
+        "action": "Get Started"
+    },
+    "footer":{
+        "resources": "Resources",
+        "docs": "Documentation",
+        "faq": "FAQ",
+        "follow": "Follow us",
+        "legal": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Use"
     }
 }

@@ -3,24 +3,24 @@
     <div class="md:flex md:justify-between">
         <div class="mb-6 md:mb-0">
             <a href="https://flowbite.com" target="_blank" class="flex items-center">
-                <svg class="mr-4 h-10" viewBox="0 0 52 72" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.87695 53H28.7791C41.5357 53 51.877 42.7025 51.877 30H24.9748C12.2182 30 1.87695 40.2975 1.87695 53Z" fill="#76A9FA"/><path d="M0.000409561 32.1646L0.000409561 66.4111C12.8618 66.4111 23.2881 55.9849 23.2881 43.1235L23.2881 8.87689C10.9966 8.98066 1.39567 19.5573 0.000409561 32.1646Z" fill="#A4CAFE"/><path d="M50.877 5H23.9748C11.2182 5 0.876953 15.2975 0.876953 28H27.7791C40.5357 28 50.877 17.7025 50.877 5Z" fill="#1C64F2"/></svg>
-                <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span>
+                <img src="@/assets/app.png" alt="logo" class="w-8 h-8 mr-2">
+                 <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Daruma</span>
             </a>
         </div>
         <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
             <div>
-                <h3 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h3>
+                <h3 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ $t("footer.resources") }}</h3>
                 <ul>
                     <li class="mb-4">
-                        <a href="https://flowbite.com" target="_blank" class="text-gray-600 hover:underline dark:text-gray-400">Flowbite</a>
+                        <a href="https://flowbite.com" target="_blank" class="text-gray-600 hover:underline dark:text-gray-400">{{ $t("footer.docs") }}</a>
                     </li>
                     <li>
-                        <a href="https://tailwindcss.com/" target="_blank" rel="nofollow" class="text-gray-600 hover:underline dark:text-gray-400">Tailwind CSS</a>
+                        <a href="https://tailwindcss.com/" target="_blank" rel="nofollow" class="text-gray-600 hover:underline dark:text-gray-400">{{ $t("footer.faq") }}</a>
                     </li>
                 </ul>
             </div>
             <div>
-                <h3 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h3>
+                <h3 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ $t("footer.follow") }}</h3>
                 <ul>
                     <li class="mb-4">
                         <a href="https://github.com/themesberg/flowbite" target="_blank" class="text-gray-600 hover:underline dark:text-gray-400">Github</a>
@@ -31,13 +31,13 @@
                 </ul>
             </div>
             <div>
-                <h3 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h3>
+                <h3 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ $t("footer.legal") }}</h3>
                 <ul>
                     <li class="mb-4">
-                        <a href="#" target="_blank" class="text-gray-600 hover:underline dark:text-gray-400">Privacy Policy</a>
+                        <a href="#" target="_blank" class="text-gray-600 hover:underline dark:text-gray-400">{{ $t("footer.privacy") }}</a>
                     </li>
                     <li>
-                        <a href="#" target="_blank" class="text-gray-600 hover:underline dark:text-gray-400">Terms &amp; Conditions</a>
+                        <a href="#" target="_blank" class="text-gray-600 hover:underline dark:text-gray-400">{{ $t("footer.terms") }}</a>
                     </li>
                 </ul>
             </div>
