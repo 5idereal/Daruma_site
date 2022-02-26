@@ -1,6 +1,23 @@
 {
     "main": {
         "subtitle": "창의력을 발휘하세요.",
-        "title": "더 빠르고, 더 강력하고, 더 좋습니다."
+        "title": "Faster, \nStronger, \nBetter.",
+        "download-btn": "Download for Windows"
+    },
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "docs": "Documentation",
+        "contact": "Contact",
+        "action": "Get Started"
+    },
+    "footer": {
+        "resources": "Resources",
+        "docs": "Documentation",
+        "faq": "FAQ",
+        "follow": "Follow us",
+        "legal": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Use"
     }
 }
