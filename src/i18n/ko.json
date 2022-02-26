@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "창의력을 발휘하세요.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "더 빠르고 \n더 강하고 \n더 좋습니다.",
+        "download-btn": "Windows용 다운로드"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "집",
+        "about": "에 대한",
+        "docs": "선적 서류 비치",
+        "contact": "연락하다",
+        "action": "시작하다"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
-        "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "resources": "자원",
+        "docs": "선적 서류 비치",
+        "faq": "자주하는 질문",
+        "follow": "팔로우",
+        "legal": "합법적 인",
+        "privacy": "개인 정보 정책",
+        "terms": "이용약관"
     }
 }
