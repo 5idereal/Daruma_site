@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Popusťte uzdu své kreativitě.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Rychlejší, \nsilnější, \nlepší.",
+        "download-btn": "Stáhnout pro Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Domov",
+        "about": "O",
+        "docs": "Dokumentace",
+        "contact": "Kontakt",
+        "action": "Začít"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
+        "resources": "Zdroje",
+        "docs": "Dokumentace",
         "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "follow": "Následuj nás",
+        "legal": "Právní",
+        "privacy": "Zásady ochrany osobních údajů",
+        "terms": "Podmínky použití"
     }
 }
