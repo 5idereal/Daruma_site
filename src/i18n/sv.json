@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Släpp loss din kreativitet.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Snabbare, \nstarkare, \nbättre.",
+        "download-btn": "Ladda ner för Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Hem",
+        "about": "Handla om",
+        "docs": "Dokumentation",
+        "contact": "Kontakt",
+        "action": "Komma igång"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
+        "resources": "Resurser",
+        "docs": "Dokumentation",
         "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "follow": "Följ oss",
+        "legal": "Rättslig",
+        "privacy": "Integritetspolicy",
+        "terms": "Villkor"
     }
 }
