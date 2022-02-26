@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Scatena la tua creatività.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Più veloce, \npiù forte, \nmigliore.",
+        "download-btn": "Scarica per Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Casa",
+        "about": "Di",
+        "docs": "Documentazione",
+        "contact": "Contatto",
+        "action": "Iniziare"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
+        "resources": "Risorse",
+        "docs": "Documentazione",
         "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "follow": "Seguici",
+        "legal": "Legale",
+        "privacy": "politica sulla riservatezza",
+        "terms": "Termini di utilizzo"
     }
 }
