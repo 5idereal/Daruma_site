@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Απελευθερώστε τη δημιουργικότητά σας.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Πιο γρήγορα, \nπιο δυνατά, \nκαλύτερα.",
+        "download-btn": "Λήψη για Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Σπίτι",
+        "about": "Σχετικά με",
+        "docs": "Τεκμηρίωση",
+        "contact": "Επικοινωνία",
+        "action": "Ξεκίνα"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
+        "resources": "Πόροι",
+        "docs": "Τεκμηρίωση",
         "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "follow": "Ακολουθησε μας",
+        "legal": "Νομικός",
+        "privacy": "Πολιτική Απορρήτου",
+        "terms": "Οροι χρήσης"
     }
 }
