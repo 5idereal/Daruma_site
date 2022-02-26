@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Päästä luovuutesi valloilleen.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Nopeampi, \nvahvempi, \nparempi.",
+        "download-btn": "Lataa Windowsille"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Koti",
+        "about": "Noin",
+        "docs": "Dokumentointi",
+        "contact": "Ottaa yhteyttä",
+        "action": "Aloittaa"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
+        "resources": "Resurssit",
+        "docs": "Dokumentointi",
         "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "follow": "Seuraa meitä",
+        "legal": "Laillinen",
+        "privacy": "Tietosuojakäytäntö",
+        "terms": "Käyttöehdot"
     }
 }
