@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Eliberează-ți creativitatea.",
+        "title": "Mai rapid, \nMai puternic, \nMai bun.",
+        "download-btn": "Descărcați pentru Windows"
+    },
+    "navbar": {
+        "home": "Acasă",
+        "about": "Despre",
+        "docs": "Documentație",
+        "contact": "a lua legatura",
+        "action": "Incepe"
+    },
+    "footer": {
+        "resources": "Resurse",
+        "docs": "Documentație",
+        "faq": "FAQ",
+        "follow": "Urmează-ne",
+        "legal": "Legal",
+        "privacy": "Politica de Confidențialitate",
+        "terms": "Termeni de utilizare"
     }
 }

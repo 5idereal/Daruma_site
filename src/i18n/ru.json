@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Раскройте свой творческий потенциал.",
+        "title": "Быстрее, \nсильнее, \nлучше.",
+        "download-btn": "Скачать для Windows"
+    },
+    "navbar": {
+        "home": "Дома",
+        "about": "О",
+        "docs": "Документация",
+        "contact": "Контакт",
+        "action": "Начать"
+    },
+    "footer": {
+        "resources": "Ресурсы",
+        "docs": "Документация",
+        "faq": "Вопросы-Ответы",
+        "follow": "Подписывайтесь на нас",
+        "legal": "Юридический",
+        "privacy": "Политика конфиденциальности",
+        "terms": "Условия эксплуатации"
     }
 }

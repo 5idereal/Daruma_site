@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Дайте волю своїй творчості.",
+        "title": "Швидше, \nСильніше, \nКраще.",
+        "download-btn": "Завантажити для Windows"
+    },
+    "navbar": {
+        "home": "Додому",
+        "about": "Про",
+        "docs": "Документація",
+        "contact": "Контакти",
+        "action": "Почати"
+    },
+    "footer": {
+        "resources": "Ресурси",
+        "docs": "Документація",
+        "faq": "FAQ",
+        "follow": "Слідуй за нами",
+        "legal": "Юридичний",
+        "privacy": "Політика конфіденційності",
+        "terms": "Умови користування"
     }
 }

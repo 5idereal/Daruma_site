@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Scatena la tua creatività.",
+        "title": "Più veloce, \npiù forte, \nmigliore.",
+        "download-btn": "Scarica per Windows"
+    },
+    "navbar": {
+        "home": "Casa",
+        "about": "Di",
+        "docs": "Documentazione",
+        "contact": "Contatto",
+        "action": "Iniziare"
+    },
+    "footer": {
+        "resources": "Risorse",
+        "docs": "Documentazione",
+        "faq": "FAQ",
+        "follow": "Seguici",
+        "legal": "Legale",
+        "privacy": "politica sulla riservatezza",
+        "terms": "Termini di utilizzo"
     }
 }

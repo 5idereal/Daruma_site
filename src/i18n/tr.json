@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Yaratıcılığınızı serbest bırakın.",
+        "title": "Daha Hızlı, \nDaha Güçlü, \nDaha İyi.",
+        "download-btn": "Windows için indirin"
+    },
+    "navbar": {
+        "home": "Ev",
+        "about": "Hakkında",
+        "docs": "belgeler",
+        "contact": "İletişim",
+        "action": "Başlamak"
+    },
+    "footer": {
+        "resources": "Kaynaklar",
+        "docs": "belgeler",
+        "faq": "SSS",
+        "follow": "Bizi takip et",
+        "legal": "Yasal",
+        "privacy": "Gizlilik Politikası",
+        "terms": "Kullanım Şartları"
     }
 }

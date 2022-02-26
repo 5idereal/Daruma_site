@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Thỏa sức sáng tạo của bạn.",
+        "title": "Nhanh hơn, \nMạnh hơn, \nTốt hơn.",
+        "download-btn": "Tải xuống cho Windows"
+    },
+    "navbar": {
+        "home": "Nhà",
+        "about": "Về",
+        "docs": "Tài liệu",
+        "contact": "Tiếp xúc",
+        "action": "Bắt đầu"
+    },
+    "footer": {
+        "resources": "Tài nguyên",
+        "docs": "Tài liệu",
+        "faq": "Câu hỏi thường gặp",
+        "follow": "Theo chúng tôi",
+        "legal": "Hợp pháp",
+        "privacy": "Chính sách bảo mật",
+        "terms": "Điều khoản sử dụng"
     }
 }

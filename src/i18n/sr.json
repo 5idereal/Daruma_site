@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Ослободите своју креативност.",
+        "title": "Брже, \nЈаче, \nбоље.",
+        "download-btn": "Преузмите за Виндовс"
+    },
+    "navbar": {
+        "home": "Кућа",
+        "about": "О томе",
+        "docs": "Документација",
+        "contact": "Контакт",
+        "action": "Почети"
+    },
+    "footer": {
+        "resources": "Ресурси",
+        "docs": "Документација",
+        "faq": "ФАК",
+        "follow": "Пратите нас",
+        "legal": "Правни",
+        "privacy": "Правила о приватности",
+        "terms": "Услови коришћења"
     }
 }

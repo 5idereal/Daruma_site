@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Popusťte uzdu své kreativitě.",
+        "title": "Rychlejší, \nsilnější, \nlepší.",
+        "download-btn": "Stáhnout pro Windows"
+    },
+    "navbar": {
+        "home": "Domov",
+        "about": "O",
+        "docs": "Dokumentace",
+        "contact": "Kontakt",
+        "action": "Začít"
+    },
+    "footer": {
+        "resources": "Zdroje",
+        "docs": "Dokumentace",
+        "faq": "FAQ",
+        "follow": "Následuj nás",
+        "legal": "Právní",
+        "privacy": "Zásady ochrany osobních údajů",
+        "terms": "Podmínky použití"
     }
 }

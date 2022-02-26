@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Engedd szabadjára kreativitásodat.",
+        "title": "Gyorsabb, \nerősebb, \njobb.",
+        "download-btn": "Letöltés Windowshoz"
+    },
+    "navbar": {
+        "home": "itthon",
+        "about": "Ról ről",
+        "docs": "Dokumentáció",
+        "contact": "Kapcsolatba lépni",
+        "action": "Fogj neki"
+    },
+    "footer": {
+        "resources": "Erőforrások",
+        "docs": "Dokumentáció",
+        "faq": "GYIK",
+        "follow": "Kövess minket",
+        "legal": "Jogi",
+        "privacy": "Adatvédelmi irányelvek",
+        "terms": "Használati feltételek"
     }
 }

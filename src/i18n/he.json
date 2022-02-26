@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "שחרר את היצירתיות שלך.",
+        "title": "מהיר יותר, \nחזק יותר, \nטוב יותר.",
+        "download-btn": "הורד עבור Windows"
+    },
+    "navbar": {
+        "home": "בית",
+        "about": "על אודות",
+        "docs": "תיעוד",
+        "contact": "איש קשר",
+        "action": "להתחיל"
+    },
+    "footer": {
+        "resources": "אֶמְצָעִי",
+        "docs": "תיעוד",
+        "faq": "שאלות נפוצות",
+        "follow": "עקבו אחרינו",
+        "legal": "משפטי",
+        "privacy": "מדיניות פרטיות",
+        "terms": "תנאי שימוש"
     }
 }

@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Απελευθερώστε τη δημιουργικότητά σας.",
+        "title": "Πιο γρήγορα, \nπιο δυνατά, \nκαλύτερα.",
+        "download-btn": "Λήψη για Windows"
+    },
+    "navbar": {
+        "home": "Σπίτι",
+        "about": "Σχετικά με",
+        "docs": "Τεκμηρίωση",
+        "contact": "Επικοινωνία",
+        "action": "Ξεκίνα"
+    },
+    "footer": {
+        "resources": "Πόροι",
+        "docs": "Τεκμηρίωση",
+        "faq": "FAQ",
+        "follow": "Ακολουθησε μας",
+        "legal": "Νομικός",
+        "privacy": "Πολιτική Απορρήτου",
+        "terms": "Οροι χρήσης"
     }
 }

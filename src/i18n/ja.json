@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "あなたの創造性を解き放ちます。",
+        "title": "より速く、 \nより強く、 \nより良い。",
+        "download-btn": "Windows用にダウンロード"
+    },
+    "navbar": {
+        "home": "家",
+        "about": "だいたい",
+        "docs": "ドキュメンテーション",
+        "contact": "連絡先",
+        "action": "はじめに"
+    },
+    "footer": {
+        "resources": "資力",
+        "docs": "ドキュメンテーション",
+        "faq": "よくある質問",
+        "follow": "フォローする",
+        "legal": "法的",
+        "privacy": "プライバシーポリシー",
+        "terms": "利用規約"
     }
 }

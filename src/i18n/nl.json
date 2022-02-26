@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Laat je creativiteit de vrije loop.",
+        "title": "Sneller, \nSterker, \nBeter.",
+        "download-btn": "Downloaden voor Windows"
+    },
+    "navbar": {
+        "home": "Thuis",
+        "about": "Over",
+        "docs": "Documentatie",
+        "contact": "Contact",
+        "action": "Begin"
+    },
+    "footer": {
+        "resources": "Bronnen",
+        "docs": "Documentatie",
+        "faq": "FAQ",
+        "follow": "Volg ons",
+        "legal": "legaal",
+        "privacy": "Privacybeleid",
+        "terms": "Gebruiksvoorwaarden"
     }
 }

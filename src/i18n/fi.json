@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Päästä luovuutesi valloilleen.",
+        "title": "Nopeampi, \nvahvempi, \nparempi.",
+        "download-btn": "Lataa Windowsille"
+    },
+    "navbar": {
+        "home": "Koti",
+        "about": "Noin",
+        "docs": "Dokumentointi",
+        "contact": "Ottaa yhteyttä",
+        "action": "Aloittaa"
+    },
+    "footer": {
+        "resources": "Resurssit",
+        "docs": "Dokumentointi",
+        "faq": "FAQ",
+        "follow": "Seuraa meitä",
+        "legal": "Laillinen",
+        "privacy": "Tietosuojakäytäntö",
+        "terms": "Käyttöehdot"
     }
 }

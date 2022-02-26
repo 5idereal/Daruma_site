@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "Slipp kreativiteten løs.",
+        "title": "Raskere, \nsterkere, \nbedre.",
+        "download-btn": "Last ned for Windows"
+    },
+    "navbar": {
+        "home": "Hjem",
+        "about": "Om",
+        "docs": "Dokumentasjon",
+        "contact": "Ta kontakt med",
+        "action": "Kom i gang"
+    },
+    "footer": {
+        "resources": "Ressurser",
+        "docs": "Dokumentasjon",
+        "faq": "FAQ",
+        "follow": "Følg oss",
+        "legal": "Lovlig",
+        "privacy": "Personvernerklæring",
+        "terms": "Vilkår for bruk"
     }
 }

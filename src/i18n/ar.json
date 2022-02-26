@@ -1,6 +1,23 @@
 {
     "main": {
-        "subtitle": "Unleash your creativity.",
-        "title": "Faster, Stronger, Better."
+        "subtitle": "أطلق العنان لإبداعك.",
+        "title": "أسرع ، \nأقوى ، \nأفضل.",
+        "download-btn": "تنزيل لنظام التشغيل Windows"
+    },
+    "navbar": {
+        "home": "الصفحة الرئيسية",
+        "about": "حول",
+        "docs": "توثيق",
+        "contact": "اتصل",
+        "action": "البدء"
+    },
+    "footer": {
+        "resources": "موارد",
+        "docs": "توثيق",
+        "faq": "التعليمات",
+        "follow": "تابعنا",
+        "legal": "قانوني",
+        "privacy": "سياسة خاصة",
+        "terms": "شروط الاستخدام"
     }
 }
