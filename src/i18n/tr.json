@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Yaratıcılığınızı serbest bırakın.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Daha Hızlı, \nDaha Güçlü, \nDaha İyi.",
+        "download-btn": "Windows için indirin"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Ev",
+        "about": "Hakkında",
+        "docs": "belgeler",
+        "contact": "İletişim",
+        "action": "Başlamak"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
-        "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "resources": "Kaynaklar",
+        "docs": "belgeler",
+        "faq": "SSS",
+        "follow": "Bizi takip et",
+        "legal": "Yasal",
+        "privacy": "Gizlilik Politikası",
+        "terms": "Kullanım Şartları"
     }
 }
