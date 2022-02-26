@@ -1,6 +1,23 @@
 {
     "main": {
         "subtitle": "Dé rienda suelta a su creatividad.",
-        "title": "Más rápido, más fuerte, mejor."
+        "title": "Faster, \nStronger, \nBetter.",
+        "download-btn": "Download for Windows"
+    },
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "docs": "Documentation",
+        "contact": "Contact",
+        "action": "Get Started"
+    },
+    "footer": {
+        "resources": "Resources",
+        "docs": "Documentation",
+        "faq": "FAQ",
+        "follow": "Follow us",
+        "legal": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Use"
     }
 }
