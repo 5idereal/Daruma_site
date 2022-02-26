@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Thỏa sức sáng tạo của bạn.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Nhanh hơn, \nMạnh hơn, \nTốt hơn.",
+        "download-btn": "Tải xuống cho Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Nhà",
+        "about": "Về",
+        "docs": "Tài liệu",
+        "contact": "Tiếp xúc",
+        "action": "Bắt đầu"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
-        "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "resources": "Tài nguyên",
+        "docs": "Tài liệu",
+        "faq": "Câu hỏi thường gặp",
+        "follow": "Theo chúng tôi",
+        "legal": "Hợp pháp",
+        "privacy": "Chính sách bảo mật",
+        "terms": "Điều khoản sử dụng"
     }
 }
