@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Maak jou kreatiwiteit los.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Vinniger, \nSterker, \nBeter.",
+        "download-btn": "Laai af vir Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Tuis",
+        "about": "Oor",
+        "docs": "Dokumentasie",
+        "contact": "Kontak",
+        "action": "Begin"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
-        "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "resources": "Hulpbronne",
+        "docs": "Dokumentasie",
+        "faq": "Gereelde vrae",
+        "follow": "Volg ons",
+        "legal": "Wettig",
+        "privacy": "Privaatheidsbeleid",
+        "terms": "Gebruiksvoorwaardes"
     }
 }
