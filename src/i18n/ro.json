@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Eliberează-ți creativitatea.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Mai rapid, \nMai puternic, \nMai bun.",
+        "download-btn": "Descărcați pentru Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "Acasă",
+        "about": "Despre",
+        "docs": "Documentație",
+        "contact": "a lua legatura",
+        "action": "Incepe"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
+        "resources": "Resurse",
+        "docs": "Documentație",
         "faq": "FAQ",
-        "follow": "Follow us",
+        "follow": "Urmează-ne",
         "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "privacy": "Politica de Confidențialitate",
+        "terms": "Termeni de utilizare"
     }
 }
