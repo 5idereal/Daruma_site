@@ -1,6 +1,23 @@
 {
     "main": {
         "subtitle": "Maak jou kreatiwiteit los.",
-        "title": "Vinniger, Sterker, Beter."
+        "title": "Faster, \nStronger, \nBetter.",
+        "download-btn": "Download for Windows"
+    },
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "docs": "Documentation",
+        "contact": "Contact",
+        "action": "Get Started"
+    },
+    "footer": {
+        "resources": "Resources",
+        "docs": "Documentation",
+        "faq": "FAQ",
+        "follow": "Follow us",
+        "legal": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Use"
     }
 }
