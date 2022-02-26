@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Engedd szabadjára kreativitásodat.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Gyorsabb, \nerősebb, \njobb.",
+        "download-btn": "Letöltés Windowshoz"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "itthon",
+        "about": "Ról ről",
+        "docs": "Dokumentáció",
+        "contact": "Kapcsolatba lépni",
+        "action": "Fogj neki"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
-        "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "resources": "Erőforrások",
+        "docs": "Dokumentáció",
+        "faq": "GYIK",
+        "follow": "Kövess minket",
+        "legal": "Jogi",
+        "privacy": "Adatvédelmi irányelvek",
+        "terms": "Használati feltételek"
     }
 }
