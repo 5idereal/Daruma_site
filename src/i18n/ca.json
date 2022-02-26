@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "Deixa anar la teva creativitat.",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "Més ràpid, \nmés fort, \nmillor.",
+        "download-btn": "Descarrega per a Windows"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "a casa",
+        "about": "Sobre",
+        "docs": "Documentació",
+        "contact": "Contacte",
+        "action": "Començar"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
-        "faq": "FAQ",
-        "follow": "Follow us",
+        "resources": "Recursos",
+        "docs": "Documentació",
+        "faq": "Preguntes freqüents",
+        "follow": "Segueix-nos",
         "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "privacy": "Política de privacitat",
+        "terms": "Condicions d'ús"
     }
 }
