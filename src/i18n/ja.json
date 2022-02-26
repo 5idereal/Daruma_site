@@ -1,23 +1,23 @@
 {
     "main": {
         "subtitle": "あなたの創造性を解き放ちます。",
-        "title": "Faster, \nStronger, \nBetter.",
-        "download-btn": "Download for Windows"
+        "title": "より速く、 \nより強く、 \nより良い。",
+        "download-btn": "Windows用にダウンロード"
     },
     "navbar": {
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
-        "action": "Get Started"
+        "home": "家",
+        "about": "だいたい",
+        "docs": "ドキュメンテーション",
+        "contact": "連絡先",
+        "action": "はじめに"
     },
     "footer": {
-        "resources": "Resources",
-        "docs": "Documentation",
-        "faq": "FAQ",
-        "follow": "Follow us",
-        "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "resources": "資力",
+        "docs": "ドキュメンテーション",
+        "faq": "よくある質問",
+        "follow": "フォローする",
+        "legal": "法的",
+        "privacy": "プライバシーポリシー",
+        "terms": "利用規約"
     }
 }
