@@ -2,22 +2,22 @@
     "main": {
         "subtitle": "創意不設限。",
         "title": "更快，\n更強，\n更好。",
-        "download-btn": "Download for Windows"
+        "download-btn": "下載 Windows 版"
     },
     "navbar":{
-        "home": "Home",
-        "about": "About",
-        "docs": "Documentation",
-        "contact": "Contact",
+        "home": "主頁",
+        "about": "關於",
+        "docs": "說明文件",
+        "contact": "聯絡我們",
         "action": "Get Started"
     },
     "footer":{
-        "resources": "Resources",
-        "docs": "Documentation",
+        "resources": "資源",
+        "docs": "說明文件",
         "faq": "FAQ",
         "follow": "Follow us",
         "legal": "Legal",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Use"
+        "privacy": "隱私權政策",
+        "terms": "使用條款"
     }
 }

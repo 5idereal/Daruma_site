@@ -23,5 +23,10 @@ export default {
     Footer,
     Navbar,
   },
+  setup() {
+    if(localStorage.getItem('isDarkMode') == 'true'){
+      document.documentElement.classList.add('dark');
+    }
+  },
 };
 </script>
