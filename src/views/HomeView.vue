@@ -7,7 +7,7 @@
     </div>
     <img src="@/assets/main.png" class="overflow-hidden max-w-none shadow-2xl" />
   </div>
-  <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
+  <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2 pt-20 mt-16">
     <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse sm:bg-none sm:p-0 lg:row-start-1">
       <h1 class="mt-1 text-lg font-bold sm:text-slate-900 md:text-5xl dark:sm:text-white">One click upload</h1>
     </div>
@@ -16,7 +16,7 @@
       <img src="@/assets/upload.jpg" alt="" class="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full" loading="lazy" />
     </div>
   </div>
-  <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2 pt-20">
+  <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2 pt-20 mt-16">
     <div class="relative p-3 col-start-7 row-start-1 flex flex-col-reverse sm:bg-none sm:p-0 lg:row-start-1">
       <h1 class="mt-1 text-lg font-bold sm:text-slate-900 md:text-5xl dark:sm:text-white">Not just a image viewer</h1>
     </div>
@@ -24,6 +24,15 @@
       <img src="@/assets/adjust.jpg" alt="" class="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full" loading="lazy" />
     </div>
     <p class="mt-4 text-md leading-6 col-start-7 lg:row-start-2 dark:text-slate-400">You can adjust the brightness, contrast, saturation, and warmth of your photos. After that, you can choose to save it as a new file or other format.</p>
+  </div>
+  <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2 pt-20 mt-16">
+    <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse sm:bg-none sm:p-0 lg:row-start-1">
+      <h1 class="mt-1 text-lg font-bold sm:text-slate-900 md:text-5xl dark:sm:text-white">One click upload</h1>
+    </div>
+    <p class="mt-4 text-md leading-6 col-start-1 sm:col-span-2 lg:mt-6 lg:row-start-2 lg:col-span-1 dark:text-slate-400">Share your photos with your friends and family easily. No more sign up or premium plan.</p>
+    <div class="sm:mb-6 lg:col-start-2 lg:row-end-6 lg:row-span-6 lg:mb-0">
+      <img src="@/assets/upload.jpg" alt="" class="w-full h-60 object-cover rounded-lg sm:h-52 sm:col-span-2 lg:col-span-full" loading="lazy" />
+    </div>
   </div>
 </template>
 
