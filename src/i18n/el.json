@@ -19,5 +19,17 @@
         "legal": "Νομικός",
         "privacy": "Πολιτική Απορρήτου",
         "terms": "Οροι χρήσης"
+    },
+    "feature": {
+        "title1": "One click upload",
+        "desc1": "Share your photos with your friends and family easily. No more sign up or premium plan.",
+        "title2": "Not just a image viewer",
+        "desc2": "You can adjust the brightness, contrast, saturation, and warmth of your photos. After that, you can choose to save it as a new file or other format.",
+        "title3": "Suited to your needs",
+        "desc3": "Open your file from URL, tree view sidebar, file dialog, or take a photo straight from your webcam!",
+        "title4": "Always on top",
+        "desc4": "Still want to view your photos while you're using other apps? No problem! Daruma has always on top feature built in that can help you multitask.",
+        "title5": "On the go",
+        "desc5": "Daruma offers portable version. So you can use it anywhere you go. No matter where you are, Daruma is always there for you."
     }
 }
